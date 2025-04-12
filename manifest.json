@@ -1,9 +1,10 @@
 {
-	"id": "ec260171-as0d-4cf8-923f-dc27poi91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/Jinx0317/Oblivion-Online-MadeEasy.git",
-	"url": "https://github.com/Jinx0317/Oblivion-Online-MadeEasy",
-	"imagefile": "",
-	"prefix": "Jinxed",
-	"repotype": "AppTemplates"
+    "id": "065b2079-b1bc-41c4-a00c-d0133a38737b",
+    "authors": [
+        "Jinxcess - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Jinxcess - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Jinxcess - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Jinxcess - Made with AMP Config Generator"
 }
