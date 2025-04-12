@@ -11,12 +11,14 @@
         "OneShot": true
     },
     {
-        "UpdateStageName": "Starting Application",
+        "UpdateStageName": "Fetching Server Files",
         "UpdateSourcePlatform": "All",
-        "UpdateSource": "StartApplication",
-        "UnzipUpdateSource": false,
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://cf-files.nexusmods.com/cdn/101/47303/Oblivion%20Online%20-%20Made%20Easy%20V2.0-47303-2-0-1740536532.zip?md5=izzVJLc-5jxfEIYGbDZbcw&expires=1744496908&user_id=203740745",
+        "UpdateSourceTarget": "22330",
+        "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
-        "OneShot": false
+        "OneShot": true
     }
 ]
